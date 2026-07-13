@@ -9,6 +9,9 @@
 
 A fully sequential **Smart Parking Lot Controller** built entirely from digital logic gates, JK flip-flops, a MUX, and BCD-to-7-segment decoders designed and simulated in **Proteus**.
 
+
+<img src="./images/cover_image.png" alt="Smart Parking Lot Management System" width="100%"/>
+
 </div>
 
 ---
